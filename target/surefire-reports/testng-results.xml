@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-25T20:10:30 IST" name="Suite" finished-at="2023-03-25T20:12:11 IST" duration-ms="101014">
+    <groups>
+    </groups>
+    <test started-at="2023-03-25T20:10:30 IST" name="Test1" finished-at="2023-03-25T20:12:11 IST" duration-ms="101014">
+      <class name="testcases.LoginTest">
+        <test-method is-config="true" signature="testData()[pri:0, instance:testcases.LoginTest@741a8937]" started-at="2023-03-25T20:10:30 IST" name="testData" finished-at="2023-03-25T20:10:31 IST" duration-ms="1021" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testData -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:testcases.LoginTest@741a8937]" started-at="2023-03-25T20:10:31 IST" name="SetUp" finished-at="2023-03-25T20:10:39 IST" duration-ms="8272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="LogiFailureTest()[pri:0, instance:testcases.LoginTest@741a8937]" started-at="2023-03-25T20:10:39 IST" name="LogiFailureTest" finished-at="2023-03-25T20:10:59 IST" duration-ms="20165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogiFailureTest -->
+        <test-method is-config="true" signature="QuitBrowser()[pri:0, instance:testcases.LoginTest@741a8937]" started-at="2023-03-25T20:10:59 IST" name="QuitBrowser" finished-at="2023-03-25T20:11:01 IST" duration-ms="1282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QuitBrowser -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:testcases.LoginTest@741a8937]" started-at="2023-03-25T20:11:01 IST" name="SetUp" finished-at="2023-03-25T20:11:07 IST" duration-ms="6584" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="LoginSuccessTest()[pri:0, instance:testcases.LoginTest@741a8937]" started-at="2023-03-25T20:11:07 IST" name="LoginSuccessTest" finished-at="2023-03-25T20:11:24 IST" duration-ms="17205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginSuccessTest -->
+        <test-method is-config="true" signature="QuitBrowser()[pri:0, instance:testcases.LoginTest@741a8937]" started-at="2023-03-25T20:11:24 IST" name="QuitBrowser" finished-at="2023-03-25T20:11:26 IST" duration-ms="1083" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QuitBrowser -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:testcases.LoginTest@741a8937]" started-at="2023-03-25T20:11:26 IST" name="SetUp" finished-at="2023-03-25T20:11:31 IST" duration-ms="5371" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="excelTestData()[pri:0, instance:testcases.LoginTest@741a8937]" started-at="2023-03-25T20:11:31 IST" name="excelTestData" finished-at="2023-03-25T20:11:48 IST" duration-ms="16971" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- excelTestData -->
+        <test-method is-config="true" signature="QuitBrowser()[pri:0, instance:testcases.LoginTest@741a8937]" started-at="2023-03-25T20:11:48 IST" name="QuitBrowser" finished-at="2023-03-25T20:11:49 IST" duration-ms="951" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QuitBrowser -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:testcases.LoginTest@741a8937]" started-at="2023-03-25T20:11:49 IST" name="SetUp" finished-at="2023-03-25T20:11:54 IST" duration-ms="4794" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="paramTest(java.lang.String,java.lang.String)[pri:0, instance:testcases.LoginTest@741a8937]" started-at="2023-03-25T20:11:54 IST" name="paramTest" finished-at="2023-03-25T20:12:10 IST" duration-ms="16153" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[prasad@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test!2345]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- paramTest -->
+        <test-method is-config="true" signature="QuitBrowser()[pri:0, instance:testcases.LoginTest@741a8937]" started-at="2023-03-25T20:12:10 IST" name="QuitBrowser" finished-at="2023-03-25T20:12:11 IST" duration-ms="805" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- QuitBrowser -->
+        <test-method is-config="true" signature="dataclose()[pri:0, instance:testcases.LoginTest@741a8937]" started-at="2023-03-25T20:12:11 IST" name="dataclose" finished-at="2023-03-25T20:12:11 IST" duration-ms="278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataclose -->
+      </class> <!-- testcases.LoginTest -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
